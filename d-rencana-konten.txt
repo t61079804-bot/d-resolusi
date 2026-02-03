@@ -1,3 +1,4 @@
 -meningkatkan followers
 -struktur data dasar
--menambah style
+-agular
+-reack
