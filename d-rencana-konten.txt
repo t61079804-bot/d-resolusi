@@ -1,1 +1,2 @@
 -meningkatkan followers
+-struktur data dasar
